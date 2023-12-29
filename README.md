@@ -47,5 +47,5 @@ Transform traditional surveillance systems with the power of Deep Learning to en
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SHAMSUNDAR20/Smart-CCTV-Deep-Learning.git
-   cd Smart-CCTV-Deep-Learning
+   https://github.com/SHAMSUNDAR20/Smart-CCTV-Using-Deep-Learning.git
+   cd Smart-CCTV-Using-Deep-Learning
